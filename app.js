@@ -87,6 +87,7 @@ const scriptSrcUrls = [
     "https://kit.fontawesome.com",
     "https://cdnjs.cloudflare.com",
     "https://cdn.jsdelivr.net",
+    "https://*.clarity.ms"
 ];
 const styleSrcUrls = [
     "https://kit-free.fontawesome.com",
@@ -101,6 +102,7 @@ const connectSrcUrls = [
     "https://api.mapbox.com",
     "https://*.tiles.mapbox.com",
     "https://events.mapbox.com",
+    "https://*.clarity.ms"
 ];
 const fontSrcUrls = [];
 
